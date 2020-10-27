@@ -1,0 +1,11 @@
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sho\source\repos\commandsAndAdaptor\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
